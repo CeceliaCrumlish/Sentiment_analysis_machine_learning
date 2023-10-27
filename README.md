@@ -3,3 +3,6 @@ Classified IMDB reviews, performed varied hyperparameter testing on several mode
 
 *Dependencies*
 using SKLEARN, pandas, and spaCy, and Gridsearch for hyper parameter optimization 
+
+*Code*
+Code that generated the report, available upon request 
